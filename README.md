@@ -1,5 +1,5 @@
-# Reproducing CDN
-by Xinpeng Liu, modified from QPIC
+# Interactiveness Field in Human-Object Interactions (CVPR 2022)
+Xinpeng Liu*, Yong-Lu Li*, Xiaoqian Wu, Yu-Wing Tai, Cewu Lu, Chi-Keung Tang
 
 ## Preparation
 
